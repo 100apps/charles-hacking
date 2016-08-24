@@ -2,7 +2,11 @@ Hacking Charles Web Debugging Proxy
 
 <http://www.gfzj.us/tech/2015/06/24/charles-hacking.html>
 
-for charles v4.0, you can hack it by yourself:
+# WARNING
+
+This version is only for charles v4.0. you can download it from: <https://www.charlesproxy.com/download/>, install as usual and replace *charles.jar* with the one in this repository.
+
+If you're not in a hurry, you can hack it by yourself:
 
 ```bash
 
