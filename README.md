@@ -6,7 +6,7 @@ Hacking Charles Web Debugging Proxy
 
 This version is only for charles v4.0. you can download it from: <https://www.charlesproxy.com/download/>, install as usual and replace *charles.jar* with the one in this repository.
 
-If you're not in a hurry, you can hack it by yourself:
+If you're using other version, like v4.0.1 or above, you can hack it by yourself:
 
 ```bash
 
