@@ -30,7 +30,7 @@ cd .. && rm -rf $dir
 
 ```
 
-### for v4.1
-replace `charles.jar` with `charles.4.1.jar`, remember to rename the file.
+### for v4.x
+replace *charles.jar* with *charles.4.x.jar*, remember to rename the file.
 OR
-run `sh hack.4.1.sh`
+run `sh hack.4.x.sh`
