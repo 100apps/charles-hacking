@@ -8,7 +8,7 @@ This version is only for charles v4.0. you can download it from: <https://www.ch
 
 # MORE
 
-If you're using other version, like v4.0.1 or above, you can hack it by yourself:
+If you're using other version, like v4.0.x, you can hack it by yourself:
 
 ```bash
 
