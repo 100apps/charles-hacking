@@ -6,7 +6,7 @@
 
 # Hack Script
 
-by [@dalgarins](/dalgarins)
+by #15
 
 ```
 charles=/Applications/Charles.app/Contents/Java/charles.jar
