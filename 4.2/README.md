@@ -6,7 +6,7 @@
 
 # Hack Script
 
-by [#15](#15)
+by [#15](https://github.com/100apps/charles-hacking/pull/15)
 
 ```
 charles=/Applications/Charles.app/Contents/Java/charles.jar
