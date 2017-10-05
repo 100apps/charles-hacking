@@ -4,7 +4,9 @@
 - **Or**
 - Hack with the below script by yourself.
 
-# Hack Script (by @dalgarins)
+# Hack Script
+
+by [@dalgarins](/dalgarins)
 
 ```
 charles=/Applications/Charles.app/Contents/Java/charles.jar
