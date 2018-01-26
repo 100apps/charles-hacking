@@ -1,6 +1,6 @@
 # Usage
 
-- Download [charles.jar](charles.jar), replase the official `charles.jar`.
+- Download [charles.jar](charles.jar), replace the official `charles.jar`.
 - **Or**
 - Hack with the below script by yourself.
 
