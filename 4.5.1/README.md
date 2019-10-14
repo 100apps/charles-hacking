@@ -16,10 +16,10 @@ cat >> YQUd.java <<EOF
 package com.xk72.charles;
 public final class YQUd {
     public static boolean tEdg() { return true; }
-	public static boolean Rarr() { return true; }
+    public static boolean Rarr() { return true; }
     public static String NCuT() { return "Administrator"; }
-	public static String RjRQ() { return "Administrator"; }
-	public static String tEdg(String name, String key) { return null; }
+    public static String RjRQ() { return "Administrator"; }
+    public static String tEdg(String name, String key) { return null; }
 }
 EOF
 javac -encoding UTF-8 YQUd.java -d .&& jar -uvf $charles com/xk72/charles/YQUd.class
