@@ -22,7 +22,7 @@ public final class Bvcn {
 	public static String FwRs(String name, String key) { return null; }
 }
 EOF
-javac -encoding UTF-8 WNzU.java -d .&& jar -uvf $charles com/xk72/charles/WNzU.class
+javac -encoding UTF-8 Bvcn.java -d .&& jar -uvf $charles com/xk72/charles/Bvcn.class
 cd .. && rm -rf $dir
 ```
 
@@ -32,4 +32,3 @@ cd .. && rm -rf $dir
 - [Windows 32 bit](https://www.charlesproxy.com/assets/release/4.2/charles-proxy-4.2-win32.msi)
 - [macOS](https://www.charlesproxy.com/assets/release/4.2/charles-proxy-4.2.dmg)
 - [Linux 64/32 bit](https://www.charlesproxy.com/assets/release/4.2/charles-proxy-4.2.tar.gz)
-
